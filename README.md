@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_hack_y" target="blank"><img src="https://img.shields.io/twitter/follow/_hack_y?logo=twitter&style=for-the-badge" alt="_hack_y" /></a> </p>
 
-- 🔭 I’m currently working as [Technical Product Manager](www.atg.world)
+- 🔭 I’m currently working as [Technical Product Manager Intern](www.atg.world)
 
 - 🌱 I’m currently learning **SCRUM**
 
