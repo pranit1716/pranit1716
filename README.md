@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://github.com/pranit1716/pranit1716/blob/main/greetings.gif">
-  <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/pranit1617/">Pranit</a>👨‍💻</h1>
+<h1 align="center">Heyy 👋, I'm <a href="https://www.linkedin.com/in/pranit1617/">Pranit</a>👨‍💻</h1>
 <h3 align="center">Pretty much been stuck to coding since 10th grade, now after getting into industry came to know that this isn't the best fit for me as a Day job (Toooo Exhausting😮‍💨). Since I'm so much of a so called extrovert and want to be connected with people and love making new connections. Trying to explore the people side of the industry and pivot my Career in Tech Management.</h3>
-<img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5e45941b4b61a64f169ca157/5e956406c7d8c2078fbe3bad_ezgif.com-optimize(2).gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/pranit1716/pranit1716/blob/main/PM.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranit1716&label=Profile%20views&color=0e75b6&style=flat" alt="pranit1716" /> </p>
  
