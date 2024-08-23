@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, Project Management**
 
-- 📫 How to reach me **pranitpatil1617@gmail.com**
+- 📫 Feel free to reach me at **pranitpatil1617@gmail.com**
   
 - ☮️ Actively TRYING to give back to the community through means of social activities!!
 
