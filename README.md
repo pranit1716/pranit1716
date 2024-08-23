@@ -7,17 +7,17 @@
  
 <p align="left"> <a href="https://twitter.com/_hack_y" target="blank"><img src="https://img.shields.io/twitter/follow/_hack_y?logo=twitter&style=for-the-badge" alt="_hack_y" /></a> </p>
 
-- 🔭 I’m currently working as [Technical Product Manager Intern](https://www.atg.world)
+- 🔭 I’m currently pursuing my Graduate Studies in Information Systems at [University of Maryland Baltimore County](https://umbc.edu/)
 
-- 🌱 I’m currently learning **SCRUM**
+- 🌱 I’m currently learning **SCRUM and AGILE METHODOLOGIES**
 
 - 💬 Ask me about **Python, Project Management**
 
 - 📫 How to reach me **pranitpatil1617@gmail.com**
   
-- ☮️ Actively TRYING to give back the community through means of social activites!!
+- ☮️ Actively TRYING to give back to the community through means of social activities!!
 
-- ⚡ Fun fact **I think I'm the next CEO of Google!! xD**
+- ⚡ Fun fact **I think I'm the next CEO of SpaceX!! LOL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
